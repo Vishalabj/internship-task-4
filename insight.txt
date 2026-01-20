@@ -1,0 +1,5 @@
+1. The top 3 tracks contribute a significant portion of total sales revenue, indicating that a small number of products drive most of the revenue.
+
+2. Rock genre generates the highest revenue among all genres, making it the most profitable category.
+
+3. Several customers have never placed any orders, representing an opportunity for targeted marketing and customer engagement.
